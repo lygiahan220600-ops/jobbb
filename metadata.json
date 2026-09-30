@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Job - Nền tảng tuyển dụng \u0026 Việc làm",
+  "description": "Nền tảng tìm kiếm việc làm thông minh với AI đề xuất công việc, tạo CV chuyên nghiệp, trắc nghiệm định hướng nghề nghiệp và kết nối trực tiếp nhà tuyển dụng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
